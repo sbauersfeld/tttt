@@ -1,3 +1,1 @@
-// Databricks notebook source
-
-scala hello
+println("hello")
