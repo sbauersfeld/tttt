@@ -1,1 +1,2 @@
-1+1
+def func():
+  return 42
